@@ -1,12 +1,12 @@
 {
-    [
+    
     { "id": 1, "firstCurr": "سوري" , "secCurr": "دولار", "firstCurr_symbol":"SYD", "secCurr_symbol":"USD","purch_price":"555","sel_price":"553"},
     
     { "id": 2, "firstCurr": "سوري" , "secCurr": "تركي", "firstCurr_symbol":"SYD", "secCurr_symbol":"TRY","purch_price":"99","sel_price":"97"},
     
     { "id": 4, "firstCurr": "دولار" , "secCurr": "تركي",  "firstCurr_symbol":"USD", "secCurr_symbol":"TYR","purch_price":"5.9","sel_price":"5.8"},
     
-    ],
+    
   
 
 
