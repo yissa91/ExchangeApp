@@ -6,8 +6,5 @@
     
     { "id": 3, "firstCurr": "دولار" , "secCurr": "تركي",  "firstCurr_symbol":"USD", "secCurr_symbol":"TYR","purch_price": 5.9,"sel_price": 5.8}
     
-    ],
-    "error": {""},
-    "message": {"hello"},
-    "status": {""}
+    ]
 }
